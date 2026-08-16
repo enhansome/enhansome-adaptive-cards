@@ -169,7 +169,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T06:51:47Z",
+            "last_commit": "2026-08-16T06:53:00Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2256
@@ -514,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:36:17.370Z",
+    "last_updated": "2026-08-16T22:35:23.904Z",
     "original_repository": "miguelrochefort/awesome-adaptive-cards",
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
     "enhanced_repository": "enhansome/enhansome-adaptive-cards",
