@@ -210,7 +210,7 @@
             "archived": false,
             "id": 75978731,
             "language": "C#",
-            "last_commit": "2026-08-19T05:31:26Z",
+            "last_commit": "2026-08-19T17:28:15Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
             "stars": 1959
@@ -306,7 +306,7 @@
             "archived": false,
             "id": 140580966,
             "language": "C#",
-            "last_commit": "2026-08-19T10:55:54Z",
+            "last_commit": "2026-08-19T14:07:29Z",
             "owner": "EvotecIT",
             "repo": "PSTeams",
             "stars": 442
@@ -351,7 +351,7 @@
             "archived": false,
             "id": 406118991,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T14:55:44Z",
+            "last_commit": "2026-08-19T14:03:44Z",
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
             "stars": 24
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:14:31.268Z",
+    "last_updated": "2026-08-19T22:39:54.045Z",
     "original_repository": "miguelrochefort/awesome-adaptive-cards",
     "original_repository_id": 480720995,
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
