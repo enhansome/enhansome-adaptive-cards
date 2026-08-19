@@ -1,55 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Adaptive Cards",
-          "description": "A new way for developers to exchange card content in a common and consistent way.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T16:28:51Z",
-            "owner": "microsoft",
-            "repo": "AdaptiveCards",
-            "stars": 1958
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adaptive Cards Documentation",
-          "description": "Documentation for Adaptive Cards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-01-29T21:30:52Z",
-            "owner": "MicrosoftDocs",
-            "repo": "AdaptiveCards",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adaptive Cards 2.0 Documentation",
-          "description": "Documentation for Adaptive Cards 2.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-01-22T22:32:50Z",
-            "owner": "dclaux",
-            "repo": "adaptivecards-v2-docs",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Contents"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279702667,
             "language": "CSS",
             "last_commit": "2023-06-25T14:32:32Z",
             "owner": "MadeWithCards",
@@ -72,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 483582675,
             "language": "Jupyter Notebook",
             "last_commit": "2022-04-20T12:41:42Z",
             "owner": "miguelrochefort",
@@ -86,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124795437,
             "language": "JavaScript",
             "last_commit": "2023-03-12T21:09:13Z",
             "owner": "rcasto",
@@ -97,7 +52,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218593286,
             "language": "Python",
             "last_commit": "2022-12-26T20:48:02Z",
             "owner": "CiscoSE",
@@ -120,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123545974,
             "language": "TypeScript",
             "last_commit": "2023-03-12T21:14:20Z",
             "owner": "rcasto",
@@ -134,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121482434,
             "language": "JavaScript",
             "last_commit": "2018-02-26T05:50:56Z",
             "owner": "rcasto",
@@ -148,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235202210,
             "language": "C#",
             "last_commit": "2023-03-02T12:54:04Z",
             "owner": "MadeWithCards",
@@ -159,7 +118,7 @@
       "title": "Authoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -168,8 +127,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66962179,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:57:02Z",
+            "last_commit": "2026-08-19T06:57:06Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2257
@@ -182,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 297719721,
             "language": "Swift",
             "last_commit": "2021-03-03T08:55:35Z",
             "owner": "gonzalezreal",
@@ -196,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210191848,
             "language": "C#",
             "last_commit": "2026-05-19T14:59:06Z",
             "owner": "mikoskinen",
@@ -210,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237104215,
             "language": "Vue",
             "last_commit": "2022-02-09T12:25:27Z",
             "owner": "DeeJayTC",
@@ -224,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241134523,
             "language": "CSS",
             "last_commit": "2023-01-05T07:40:25Z",
             "owner": "DeeJayTC",
@@ -235,7 +199,7 @@
       "title": "Rendering"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -244,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75978731,
             "language": "C#",
-            "last_commit": "2026-08-17T16:28:51Z",
+            "last_commit": "2026-08-19T05:31:26Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1958
+            "stars": 1959
           }
         },
         {
@@ -258,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190425217,
             "language": "TypeScript",
             "last_commit": "2024-10-11T21:25:59Z",
             "owner": "microsoft",
@@ -272,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423945776,
             "language": "PowerShell",
             "last_commit": "2023-07-20T13:00:59Z",
             "owner": "alexc-MSFT",
@@ -286,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448555157,
             "language": null,
             "last_commit": "2022-01-16T16:09:55Z",
             "owner": "MadeWithCards",
@@ -300,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299988534,
             "language": null,
             "last_commit": "2020-09-30T18:30:26Z",
             "owner": "MadeWithCards",
@@ -311,7 +280,7 @@
       "title": "Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -320,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46145018,
             "language": "JavaScript",
             "last_commit": "2023-12-07T13:43:00Z",
             "owner": "drone",
@@ -334,8 +304,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140580966,
             "language": "C#",
-            "last_commit": "2026-08-10T22:00:46Z",
+            "last_commit": "2026-08-19T10:55:54Z",
             "owner": "EvotecIT",
             "repo": "PSTeams",
             "stars": 442
@@ -348,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93536922,
             "language": "C#",
             "last_commit": "2019-01-15T19:03:38Z",
             "owner": "matthidinger",
@@ -362,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125658779,
             "language": "Vue",
             "last_commit": "2026-07-28T14:33:31Z",
             "owner": "wmfs",
@@ -376,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406118991,
             "language": "TypeScript",
             "last_commit": "2026-08-17T14:55:44Z",
             "owner": "mikesprague",
@@ -390,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92785046,
             "language": "C#",
             "last_commit": "2017-06-01T22:47:03Z",
             "owner": "EricDahlvang",
@@ -404,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119116147,
             "language": "JavaScript",
             "last_commit": "2019-10-25T17:01:53Z",
             "owner": "microsoft",
@@ -418,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115853208,
             "language": "C#",
             "last_commit": "2018-11-26T05:28:39Z",
             "owner": "r4hulp",
@@ -432,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315471713,
             "language": "JavaScript",
             "last_commit": "2022-06-22T07:14:48Z",
             "owner": "dylanlindgren",
@@ -446,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197441566,
             "language": "TypeScript",
             "last_commit": "2020-07-31T09:04:34Z",
             "owner": "OOlashyn",
@@ -460,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181640731,
             "language": "C#",
             "last_commit": "2019-04-16T08:45:30Z",
             "owner": "bragner",
@@ -474,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 390675389,
             "language": "C#",
             "last_commit": "2021-09-18T11:53:05Z",
             "owner": "cdngmnks",
@@ -488,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361360934,
             "language": "CSS",
             "last_commit": "2024-04-03T03:19:51Z",
             "owner": "amthorn",
@@ -502,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 467886970,
             "language": "CSS",
             "last_commit": "2022-03-09T11:11:59Z",
             "owner": "dseda",
@@ -514,8 +497,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:40:17.337Z",
+    "last_updated": "2026-08-19T12:14:31.268Z",
     "original_repository": "miguelrochefort/awesome-adaptive-cards",
+    "original_repository_id": 480720995,
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
     "enhanced_repository": "enhansome/enhansome-adaptive-cards",
     "enhanced_repository_description": null,
