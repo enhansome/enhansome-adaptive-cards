@@ -129,10 +129,10 @@
             "archived": false,
             "id": 66962179,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:57:06Z",
+            "last_commit": "2026-08-20T06:58:03Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2257
+            "stars": 2258
           }
         },
         {
@@ -351,7 +351,7 @@
             "archived": false,
             "id": 406118991,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T14:03:44Z",
+            "last_commit": "2026-08-20T14:03:17Z",
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
             "stars": 24
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:39:54.045Z",
+    "last_updated": "2026-08-20T22:44:04.459Z",
     "original_repository": "miguelrochefort/awesome-adaptive-cards",
     "original_repository_id": 480720995,
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
