@@ -129,10 +129,10 @@
             "archived": false,
             "id": 66962179,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T06:58:03Z",
+            "last_commit": "2026-08-21T07:00:25Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2258
+            "stars": 2259
           }
         },
         {
@@ -306,7 +306,7 @@
             "archived": false,
             "id": 140580966,
             "language": "C#",
-            "last_commit": "2026-08-19T14:07:29Z",
+            "last_commit": "2026-08-21T15:28:16Z",
             "owner": "EvotecIT",
             "repo": "PSTeams",
             "stars": 442
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:44:04.459Z",
+    "last_updated": "2026-08-21T22:40:09.581Z",
     "original_repository": "miguelrochefort/awesome-adaptive-cards",
     "original_repository_id": 480720995,
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
