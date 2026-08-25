@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T17:28:15Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1959
+            "stars": 1960
           }
         },
         {
@@ -180,7 +180,7 @@
             "archived": false,
             "id": 66962179,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:14:06Z",
+            "last_commit": "2026-08-25T03:00:23Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2260
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-19T17:28:15Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1959
+            "stars": 1960
           }
         },
         {
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:42:52.114Z",
+    "last_updated": "2026-08-25T06:37:34.997Z",
     "original_repository": "miguelrochefort/awesome-adaptive-cards",
     "original_repository_id": 480720995,
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
