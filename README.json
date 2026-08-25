@@ -12,7 +12,7 @@
             "archived": false,
             "id": 75978731,
             "language": "C#",
-            "last_commit": "2026-08-19T17:28:15Z",
+            "last_commit": "2026-08-25T11:54:37Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
             "stars": 1960
@@ -180,10 +180,10 @@
             "archived": false,
             "id": 66962179,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:00:23Z",
+            "last_commit": "2026-08-25T07:00:12Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2260
+            "stars": 2261
           }
         },
         {
@@ -261,7 +261,7 @@
             "archived": false,
             "id": 75978731,
             "language": "C#",
-            "last_commit": "2026-08-19T17:28:15Z",
+            "last_commit": "2026-08-25T11:54:37Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
             "stars": 1960
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 406118991,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:06:03Z",
+            "last_commit": "2026-08-25T14:03:27Z",
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
             "stars": 24
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:34.997Z",
+    "last_updated": "2026-08-25T22:43:57.225Z",
     "original_repository": "miguelrochefort/awesome-adaptive-cards",
     "original_repository_id": 480720995,
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
