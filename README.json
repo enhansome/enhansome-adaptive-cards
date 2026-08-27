@@ -12,10 +12,10 @@
             "archived": false,
             "id": 75978731,
             "language": "C#",
-            "last_commit": "2026-08-25T11:54:37Z",
+            "last_commit": "2026-08-27T07:04:16Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1961
+            "stars": 1962
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-26T07:12:26Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2261
+            "stars": 2262
           }
         },
         {
@@ -261,10 +261,10 @@
             "archived": false,
             "id": 75978731,
             "language": "C#",
-            "last_commit": "2026-08-25T11:54:37Z",
+            "last_commit": "2026-08-27T07:04:16Z",
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1961
+            "stars": 1962
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2024-10-11T21:25:59Z",
             "owner": "microsoft",
             "repo": "adaptivecards-templates",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -548,9 +548,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:17:32.852Z",
-    "original_repository": "miguelrochefort/awesome-adaptive-cards",
-    "original_repository_id": 480720995,
+    "last_updated": "2026-08-27T11:18:10.698Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 480720995,
+      "language": null,
+      "last_commit": "2022-04-20T12:52:20Z",
+      "owner": "miguelrochefort",
+      "repo": "awesome-adaptive-cards",
+      "stars": 62
+    },
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
     "enhanced_repository": "enhansome/enhansome-adaptive-cards",
     "enhanced_repository_description": null,
