@@ -16,7 +16,8 @@
             "owner": "microsoft",
             "repo": "AdaptiveCards",
             "stars": 1962
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "MicrosoftDocs",
             "repo": "AdaptiveCards",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dclaux",
             "repo": "adaptivecards-v2-docs",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         }
       ],
       "title": "Overview"
@@ -67,7 +70,8 @@
             "owner": "MadeWithCards",
             "repo": "AdaptiveCardsStudio",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "miguelrochefort",
             "repo": "box2card",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "rcasto",
             "repo": "adaptive-editor",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         }
       ],
       "title": "Tools"
@@ -118,7 +124,8 @@
             "owner": "CiscoSE",
             "repo": "pyadaptivecards",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "rcasto",
             "repo": "adaptive-html",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "rcasto",
             "repo": "adaptive-markdown",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "MadeWithCards",
             "repo": "Transformer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         }
       ],
       "title": "Authoring"
@@ -180,11 +190,12 @@
             "archived": false,
             "id": 66962179,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T07:12:26Z",
+            "last_commit": "2026-08-27T17:35:14Z",
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2262
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "gonzalezreal",
             "repo": "AdaptiveCardUI",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "mikoskinen",
             "repo": "Blazor.AdaptiveCards",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "DeeJayTC",
             "repo": "adaptivecards-vue",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "DeeJayTC",
             "repo": "adaptivecards-wc",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         }
       ],
       "title": "Rendering"
@@ -265,7 +280,8 @@
             "owner": "microsoft",
             "repo": "AdaptiveCards",
             "stars": 1962
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "microsoft",
             "repo": "adaptivecards-templates",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "alexc-MSFT",
             "repo": "viva-connections-cards",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "MadeWithCards",
             "repo": "AdaptiveCards-Templates",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "MadeWithCards",
             "repo": "CommonCards",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         }
       ],
       "title": "Templates"
@@ -346,7 +366,8 @@
             "owner": "drone",
             "repo": "drone-ui",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -357,11 +378,12 @@
             "archived": false,
             "id": 140580966,
             "language": "C#",
-            "last_commit": "2026-08-23T20:05:11Z",
+            "last_commit": "2026-08-27T20:35:11Z",
             "owner": "EvotecIT",
             "repo": "PSTeams",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "matthidinger",
             "repo": "ContosoScubaBot",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "wmfs",
             "repo": "cardscript",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -402,11 +426,12 @@
             "archived": false,
             "id": 406118991,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T14:03:27Z",
+            "last_commit": "2026-08-27T14:06:01Z",
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "EricDahlvang",
             "repo": "AdaptiveCards-WeatherBot",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "microsoft",
             "repo": "bingapi-hololens-demo",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "r4hulp",
             "repo": "StockBot",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "dylanlindgren",
             "repo": "va-adaptive-cards",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "OOlashyn",
             "repo": "PCF-StockMarketCard",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "bragner",
             "repo": "Spotify-Player-Bot",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "cdngmnks",
             "repo": "adaptive-cards-azure-functions-dotnet",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "amthorn",
             "repo": "qutex",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         },
         {
           "node_type": "item",
@@ -541,14 +574,15 @@
             "owner": "dseda",
             "repo": "adaptive-cards-demo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
         }
       ],
       "title": "Projects using Adaptive Cards"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:10.698Z",
+    "last_updated": "2026-08-28T06:06:16.552Z",
     "original_repository_info": {
       "archived": false,
       "id": 480720995,
