@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new way for developers to exchange card content in a common and consistent way.",
+            "homepage": "https://adaptivecards.io",
             "id": 75978731,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:04:16Z",
+            "open_issues": 894,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1962
+            "stars": 1963,
+            "topics": [
+              "adaptive",
+              "adaptive-cards",
+              "adaptivecards",
+              "android",
+              "bot-framework",
+              "bots",
+              "cards",
+              "ios",
+              "timeline",
+              "uwp",
+              "windows",
+              "windows-uwp",
+              "wpf",
+              "xamarin",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -26,12 +47,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docs for Adaptive Cards",
+            "homepage": "https://docs.microsoft.com/en-us/adaptive-cards/",
             "id": 93208351,
             "language": "CSS",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-01-29T21:30:52Z",
+            "open_issues": 202,
             "owner": "MicrosoftDocs",
             "repo": "AdaptiveCards",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "adaptive-cards"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -42,12 +70,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation for Adaptive Cards v2",
+            "homepage": null,
             "id": 307785850,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-22T22:32:50Z",
+            "open_issues": 0,
             "owner": "dclaux",
             "repo": "adaptivecards-v2-docs",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         }
@@ -64,12 +97,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code Extension to help create AdaptiveCards. The extension not only allows you to see the card you're working on but also comes with nice snippets and helpfull utilities. ",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=madewithcardsio.adaptivecardsstudiobeta",
             "id": 279702667,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2023-06-25T14:32:32Z",
+            "open_issues": 4,
             "owner": "MadeWithCards",
             "repo": "AdaptiveCardsStudio",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "adaptive-cards",
+              "authoring-cards",
+              "snippets",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -80,12 +123,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert Wikipedia infoboxes into Adaptive Cards.",
+            "homepage": null,
             "id": 483582675,
             "language": "Jupyter Notebook",
+            "license": "CC0-1.0",
             "last_commit": "2022-04-20T12:41:42Z",
+            "open_issues": 0,
             "owner": "miguelrochefort",
             "repo": "box2card",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "adaptive-cards",
+              "adaptivecards",
+              "infobox",
+              "wikidata",
+              "wikipedia"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -96,12 +150,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Card wysiwyg editor",
+            "homepage": "https://rcasto.github.io/adaptive-editor/",
             "id": 124795437,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-12T21:09:13Z",
+            "open_issues": 12,
             "owner": "rcasto",
             "repo": "adaptive-editor",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "adaptive-cards",
+              "adaptivecards",
+              "authoring-tool",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         }
@@ -118,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Author adaptive cards in native python",
+            "homepage": null,
             "id": 218593286,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-26T20:48:02Z",
+            "open_issues": 10,
             "owner": "CiscoSE",
             "repo": "pyadaptivecards",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -134,12 +204,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML to Adaptive Card JSON converter library",
+            "homepage": "https://rcasto.github.io/adaptive-editor/",
             "id": 123545974,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-12T21:14:20Z",
+            "open_issues": 11,
             "owner": "rcasto",
             "repo": "adaptive-html",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "adaptive-cards",
+              "adaptivecards",
+              "authoring-tool",
+              "converter",
+              "html",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -150,12 +232,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown to Adaptive Card converter",
+            "homepage": null,
             "id": 121482434,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-02-26T05:50:56Z",
+            "open_issues": 1,
             "owner": "rcasto",
             "repo": "adaptive-markdown",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "adaptive-cards",
+              "content-authoring",
+              "converter",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -166,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 235202210,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-03-02T12:54:04Z",
+            "open_issues": 18,
             "owner": "MadeWithCards",
             "repo": "Transformer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         }
@@ -188,12 +285,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SharePoint Framework web part, Teams tab, personal app, app page samples",
+            "homepage": "http://aka.ms/spfx-webparts",
             "id": 66962179,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:35:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:09:04Z",
+            "open_issues": 34,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2262
+            "stars": 2262,
+            "topics": [
+              "angularjs",
+              "hacktoberfest",
+              "knockoutjs",
+              "pnp-js-core",
+              "react",
+              "sharepoint-framework",
+              "sharepoint-workbench",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -204,12 +315,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Snippets of UI, authored in JSON and rendered with SwiftUI",
+            "homepage": null,
             "id": 297719721,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-03-03T08:55:35Z",
+            "open_issues": 8,
             "owner": "gonzalezreal",
             "repo": "AdaptiveCardUI",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "adaptive-cards",
+              "codable",
+              "conversational-ui",
+              "json",
+              "server-driven-ui",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -220,12 +344,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Cards for Blazor",
+            "homepage": "https://adaptivecardsblazor.com",
             "id": 210191848,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-19T14:59:06Z",
+            "open_issues": 10,
             "owner": "mikoskinen",
             "repo": "Blazor.AdaptiveCards",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "adaptive-cards",
+              "blazor"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -236,12 +368,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue.js component to render adaptive cards",
+            "homepage": "https://www.madewithcards.io",
             "id": 237104215,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-02-09T12:25:27Z",
+            "open_issues": 2,
             "owner": "DeeJayTC",
             "repo": "adaptivecards-vue",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "adaptivecards",
+              "vue",
+              "vuejs2"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -252,12 +393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Cards Web Component",
+            "homepage": null,
             "id": 241134523,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-01-05T07:40:25Z",
+            "open_issues": 22,
             "owner": "DeeJayTC",
             "repo": "adaptivecards-wc",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         }
@@ -274,12 +420,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new way for developers to exchange card content in a common and consistent way.",
+            "homepage": "https://adaptivecards.io",
             "id": 75978731,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:04:16Z",
+            "open_issues": 894,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1962
+            "stars": 1963,
+            "topics": [
+              "adaptive",
+              "adaptive-cards",
+              "adaptivecards",
+              "android",
+              "bot-framework",
+              "bots",
+              "cards",
+              "ios",
+              "timeline",
+              "uwp",
+              "windows",
+              "windows-uwp",
+              "wpf",
+              "xamarin",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -290,12 +457,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Adaptive Card templates for well-known data models",
+            "homepage": "https://docs.microsoft.com/en-us/adaptive-cards/templating/service",
             "id": 190425217,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-11T21:25:59Z",
+            "open_issues": 21,
             "owner": "microsoft",
             "repo": "adaptivecards-templates",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "adaptivecards"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -306,12 +480,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Viva Connections cards that leverage the card designer and data JSON. Provides an alternative to custom developed cards.",
+            "homepage": null,
             "id": 423945776,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2023-07-20T13:00:59Z",
+            "open_issues": 0,
             "owner": "alexc-MSFT",
             "repo": "viva-connections-cards",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "adaptivecards",
+              "card",
+              "carddesigner",
+              "intranet",
+              "microsoft",
+              "sharepoint",
+              "viva",
+              "vivaconnections"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -322,12 +510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Samples on different adaptive card designs demonstrating the art of possible with them. Designs provided by the Microsoft design team and first versions targeting Viva Connections Adaptive Card Extensions (ACE) scenarios.",
+            "homepage": null,
             "id": 448555157,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-01-16T16:09:55Z",
+            "open_issues": 0,
             "owner": "MadeWithCards",
             "repo": "AdaptiveCards-Templates",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -338,12 +531,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Card Samples, Starter Cards and cards for commonly known objects such as Github Data or Saas Apps or other broadly used object definitions. ",
+            "homepage": null,
             "id": 299988534,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-30T18:30:26Z",
+            "open_issues": 0,
             "owner": "MadeWithCards",
             "repo": "CommonCards",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "adaptivecards"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         }
@@ -360,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front-end for the Drone continuous integration server",
+            "homepage": "https://github.com/drone/drone",
             "id": 46145018,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-07T13:43:00Z",
+            "open_issues": 39,
             "owner": "drone",
             "repo": "drone-ui",
-            "stars": 516
+            "stars": 516,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -376,12 +581,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.",
+            "homepage": null,
             "id": 140580966,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:35:11Z",
+            "open_issues": 8,
             "owner": "EvotecIT",
             "repo": "PSTeams",
-            "stars": 442
+            "stars": 442,
+            "topics": [
+              "adaptive-cards",
+              "hacktoberfest",
+              "incoming-webhook",
+              "linux",
+              "macos",
+              "message-cards",
+              "microsoft-teams",
+              "powershell",
+              "sending-notifications",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -392,12 +613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample bot built with rich Adaptive Cards ",
+            "homepage": "https://contososcubademo.azurewebsites.net",
             "id": 93536922,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-01-15T19:03:38Z",
+            "open_issues": 2,
             "owner": "matthidinger",
             "repo": "ContosoScubaBot",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -408,12 +634,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JSON-based language for describing rich user interfaces.",
+            "homepage": "https://wmfs.github.io/cardscript/",
             "id": 125658779,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-28T14:33:31Z",
+            "open_issues": 2,
             "owner": "wmfs",
             "repo": "cardscript",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "adaptive-cards",
+              "quasar-framework",
+              "ui",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -424,12 +660,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action that sends an AdaptiveCard notification to an MS Teams Webhook",
+            "homepage": "https://github.com/marketplace/actions/ms-teams-incoming-webhook-notification",
             "id": 406118991,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:06:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:03:10Z",
+            "open_issues": 1,
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "actions",
+              "adaptive-cards",
+              "adaptivecards",
+              "github-actions",
+              "ms-teams",
+              "msteams",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -440,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example showing how to create an intelligent bot that displays a weather forecast for a city using APIXU.",
+            "homepage": null,
             "id": 92785046,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-06-01T22:47:03Z",
+            "open_issues": 0,
             "owner": "EricDahlvang",
             "repo": "AdaptiveCards-WeatherBot",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -456,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Demo project showcasing Bing API Adaptive Cards rendered on HoloLens via image recognition.",
+            "homepage": null,
             "id": 119116147,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-25T17:01:53Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "bingapi-hololens-demo",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -472,12 +731,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stock Bot for Indian Exchange.",
+            "homepage": "https://r4hulp.github.io/StockBot",
             "id": 115853208,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-11-26T05:28:39Z",
+            "open_issues": 0,
             "owner": "r4hulp",
             "repo": "StockBot",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "adaptive-cards",
+              "adaptivecards",
+              "bot-framework",
+              "botframework",
+              "csharp",
+              "price",
+              "stock-bot",
+              "stock-market"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -488,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily define custom layouts & data in Virtual Agent with Adaptive Cards",
+            "homepage": null,
             "id": 315471713,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-22T07:14:48Z",
+            "open_issues": 0,
             "owner": "dylanlindgren",
             "repo": "va-adaptive-cards",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -504,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stock Update Card using Adaptive Cards and Powerapps Control Framework",
+            "homepage": null,
             "id": 197441566,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-07-31T09:04:34Z",
+            "open_issues": 4,
             "owner": "OOlashyn",
             "repo": "PCF-StockMarketCard",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -520,12 +803,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spotify Player Bot integrates Bot Framework v4 with Spotify Web Api.",
+            "homepage": null,
             "id": 181640731,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2019-04-16T08:45:30Z",
+            "open_issues": 0,
             "owner": "bragner",
             "repo": "Spotify-Player-Bot",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "adaptive-cards",
+              "bot-framework",
+              "csharp",
+              "csharp-code",
+              "dotnet-core",
+              "oauth2",
+              "spotify",
+              "spotify-web-api"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -536,12 +833,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Azure function returning an Adaptive Card as HTML using the .NET SDK.",
+            "homepage": null,
             "id": 390675389,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-09-18T11:53:05Z",
+            "open_issues": 0,
             "owner": "cdngmnks",
             "repo": "adaptive-cards-azure-functions-dotnet",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "adaptive-cards",
+              "azure-functions"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -552,12 +857,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic Queue Management System, interactable via several mediums, that resembles a mutex.",
+            "homepage": "https://docs.qutexbot.com",
             "id": 361360934,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-04-03T03:19:51Z",
+            "open_issues": 27,
             "owner": "amthorn",
             "repo": "qutex",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ava",
+              "bot",
+              "bots",
+              "cisco",
+              "cisco-spark",
+              "cisco-spark-bot",
+              "mutex",
+              "queue",
+              "queuebot",
+              "queues",
+              "qutex",
+              "spark",
+              "thorn",
+              "webex",
+              "webex-teams"
+            ]
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         },
@@ -568,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Cards with Templating Demo",
+            "homepage": "https://dseda.github.io/adaptive-cards-demo/",
             "id": 467886970,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-03-09T11:11:59Z",
+            "open_issues": 0,
             "owner": "dseda",
             "repo": "adaptive-cards-demo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
         }
@@ -582,15 +913,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:06:16.552Z",
+    "last_updated": "2026-08-29T03:42:38.051Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Adaptive Cards projects.",
+      "homepage": null,
       "id": 480720995,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-04-20T12:52:20Z",
+      "open_issues": 0,
       "owner": "miguelrochefort",
       "repo": "awesome-adaptive-cards",
-      "stars": 62
+      "stars": 62,
+      "topics": [
+        "adaptive-cards",
+        "adaptivecards",
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "62548452d1684cbac5e3a9d51312198f78b47fd6",
     "enhanced_repository": "enhansome/enhansome-adaptive-cards",
