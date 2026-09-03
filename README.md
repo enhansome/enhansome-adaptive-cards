@@ -1,6 +1,6 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,050 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,411 | 🐛 105 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
@@ -44,7 +44,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Rendering
 
-* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,265 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-01 - Adaptive Cards Web Part.
+* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,265 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-02 - Adaptive Cards Web Part.
 
 * [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) ⚠️ Archived - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
@@ -106,11 +106,11 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 * [PSTeams](https://github.com/EvotecIT/PSTeams) ⭐ 442 | 🐛 8 | 🌐 C# | 📅 2026-08-29 - PowerShell Module that allows sending notifications to Microsoft Teams via WebHook Notifications.
 
-* [Contoso Dive Finder](https://github.com/matthidinger/ContosoScubaBot) ⭐ 42 | 🐛 2 | 🌐 C# | 📅 2019-01-15 - Sample bot built with rich Adaptive Cards.
+* [Contoso Dive Finder](https://github.com/matthidinger/ContosoScubaBot) ⭐ 41 | 🐛 2 | 🌐 C# | 📅 2019-01-15 - Sample bot built with rich Adaptive Cards.
 
 * [Cardscript](https://github.com/wmfs/cardscript) ⭐ 35 | 🐛 2 | 🌐 Vue | 📅 2026-07-28 - A JSON-based language for describing rich user interfaces.
 
-* [MS Teams Incoming Webhook](https://github.com/mikesprague/teams-incoming-webhook-action) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01 - GitHub Action that sends an AdaptiveCard notification to an MS Teams Incoming Webhook.
+* [MS Teams Incoming Webhook](https://github.com/mikesprague/teams-incoming-webhook-action) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-02 - GitHub Action that sends an AdaptiveCard notification to an MS Teams Incoming Webhook.
 
 * [WeatherBot](https://github.com/EricDahlvang/AdaptiveCards-WeatherBot) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2017-06-01 - Example showing how to create an intelligent bot that displays a weather forecast for a city using APIXU.
 
@@ -136,4 +136,4 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

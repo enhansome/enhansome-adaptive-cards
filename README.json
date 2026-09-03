@@ -290,8 +290,8 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T21:56:58Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-02T23:32:02Z",
+            "open_issues": 69,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2265,
@@ -622,7 +622,7 @@
             "open_issues": 2,
             "owner": "matthidinger",
             "repo": "ContosoScubaBot",
-            "stars": 42,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
@@ -665,7 +665,7 @@
             "id": 406118991,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T01:42:41Z",
+            "last_commit": "2026-09-02T15:36:42Z",
             "open_issues": 1,
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:11:53.235Z",
+    "last_updated": "2026-09-03T00:14:00.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
