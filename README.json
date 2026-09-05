@@ -290,11 +290,11 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:19:57Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-04T11:23:06Z",
+            "open_issues": 83,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2265,
+            "stars": 2266,
             "topics": [
               "angularjs",
               "hacktoberfest",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:04:58.490Z",
+    "last_updated": "2026-09-05T00:03:29.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
