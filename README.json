@@ -290,8 +290,8 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T23:20:51Z",
-            "open_issues": 91,
+            "last_commit": "2026-09-09T23:57:34Z",
+            "open_issues": 106,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2266,
@@ -586,8 +586,8 @@
             "id": 140580966,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T17:59:35Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-09T18:10:54Z",
+            "open_issues": 9,
             "owner": "EvotecIT",
             "repo": "PSTeams",
             "stars": 442,
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:12:58.217Z",
+    "last_updated": "2026-09-10T00:13:43.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
