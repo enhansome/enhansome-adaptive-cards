@@ -1,6 +1,6 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,155 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,459 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
@@ -16,7 +16,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Frameworks
 
-* [Bot Framework Web Chat](https://github.com/microsoft/BotFramework-WebChat) ⭐ 1,786 | 🐛 523 | 🌐 HTML | 📅 2026-09-11 - A highly-customizable web-based client for Azure Bot Services.
+* [Bot Framework Web Chat](https://github.com/microsoft/BotFramework-WebChat) ⭐ 1,785 | 🐛 523 | 🌐 HTML | 📅 2026-09-11 - A highly-customizable web-based client for Azure Bot Services.
 
 ### Tools
 
@@ -44,7 +44,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Rendering
 
-* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,266 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-11 - Adaptive Cards Web Part.
+* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,268 | 🐛 122 | 🌐 TypeScript | 📅 2026-09-12 - Adaptive Cards Web Part.
 
 * [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) ⚠️ Archived - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
