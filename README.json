@@ -290,11 +290,11 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:06:20Z",
+            "last_commit": "2026-09-14T12:30:58Z",
             "open_issues": 125,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2269,
+            "stars": 2270,
             "topics": [
               "angularjs",
               "hacktoberfest",
@@ -569,7 +569,7 @@
             "open_issues": 39,
             "owner": "drone",
             "repo": "drone-ui",
-            "stars": 516,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
@@ -665,7 +665,7 @@
             "id": 406118991,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T17:49:51Z",
+            "last_commit": "2026-09-14T14:03:38Z",
             "open_issues": 0,
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:09:50.910Z",
+    "last_updated": "2026-09-15T00:37:14.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
