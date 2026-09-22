@@ -290,7 +290,7 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T21:19:26Z",
+            "last_commit": "2026-09-21T12:35:19Z",
             "open_issues": 53,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
@@ -665,7 +665,7 @@
             "id": 406118991,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T15:18:58Z",
+            "last_commit": "2026-09-21T14:03:36Z",
             "open_issues": 0,
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:14:59.366Z",
+    "last_updated": "2026-09-22T00:49:03.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
