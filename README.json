@@ -290,7 +290,7 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T11:23:45Z",
+            "last_commit": "2026-09-23T11:20:24Z",
             "open_issues": 53,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:30:41.214Z",
+    "last_updated": "2026-09-24T00:29:16.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
