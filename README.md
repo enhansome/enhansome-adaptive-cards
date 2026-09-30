@@ -1,6 +1,6 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,024 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,466 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
@@ -44,7 +44,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Rendering
 
-* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,275 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-28 - Adaptive Cards Web Part.
+* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,275 | 🐛 64 | 🌐 TypeScript | 📅 2026-09-29 - Adaptive Cards Web Part.
 
 * [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) ⚠️ Archived - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
@@ -136,4 +136,4 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
