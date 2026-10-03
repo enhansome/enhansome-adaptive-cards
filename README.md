@@ -1,6 +1,6 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,748 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,791 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
