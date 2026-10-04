@@ -19,7 +19,7 @@
             "open_issues": 897,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1963,
+            "stars": 1965,
             "topics": [
               "adaptive",
               "adaptive-cards",
@@ -290,7 +290,7 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:22:41Z",
+            "last_commit": "2026-10-03T11:30:28Z",
             "open_issues": 62,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
@@ -429,7 +429,7 @@
             "open_issues": 897,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1963,
+            "stars": 1965,
             "topics": [
               "adaptive",
               "adaptive-cards",
@@ -466,7 +466,7 @@
             "open_issues": 21,
             "owner": "microsoft",
             "repo": "adaptivecards-templates",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "adaptivecards"
             ]
@@ -684,27 +684,6 @@
         },
         {
           "node_type": "item",
-          "title": "WeatherBot",
-          "description": "Example showing how to create an intelligent bot that displays a weather forecast for a city using APIXU.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Example showing how to create an intelligent bot that displays a weather forecast for a city using APIXU.",
-            "homepage": null,
-            "id": 92785046,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2017-06-01T22:47:03Z",
-            "open_issues": 0,
-            "owner": "EricDahlvang",
-            "repo": "AdaptiveCards-WeatherBot",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:06:16.552Z"
-        },
-        {
-          "node_type": "item",
           "title": "Bing API Adaptive Cards on HoloLens",
           "description": "Demo project showcasing Bing API Adaptive Cards rendered on HoloLens via image recognition.",
           "children": [],
@@ -719,6 +698,27 @@
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "bingapi-hololens-demo",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:06:16.552Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WeatherBot",
+          "description": "Example showing how to create an intelligent bot that displays a weather forecast for a city using APIXU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Example showing how to create an intelligent bot that displays a weather forecast for a city using APIXU.",
+            "homepage": null,
+            "id": 92785046,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2017-06-01T22:47:03Z",
+            "open_issues": 0,
+            "owner": "EricDahlvang",
+            "repo": "AdaptiveCards-WeatherBot",
             "stars": 8,
             "topics": []
           },
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:21:55.234Z",
+    "last_updated": "2026-10-04T00:36:12.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
