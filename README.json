@@ -290,8 +290,8 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:30:28Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-04T12:16:54Z",
+            "open_issues": 65,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2276,
@@ -569,7 +569,7 @@
             "open_issues": 39,
             "owner": "drone",
             "repo": "drone-ui",
-            "stars": 517,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:36:12.201Z",
+    "last_updated": "2026-10-05T00:54:32.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
