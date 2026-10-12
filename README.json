@@ -19,7 +19,7 @@
             "open_issues": 897,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1965,
+            "stars": 1966,
             "topics": [
               "adaptive",
               "adaptive-cards",
@@ -290,11 +290,11 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T12:18:58Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-11T19:22:48Z",
+            "open_issues": 46,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2279,
+            "stars": 2280,
             "topics": [
               "angularjs",
               "hacktoberfest",
@@ -429,7 +429,7 @@
             "open_issues": 897,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1965,
+            "stars": 1966,
             "topics": [
               "adaptive",
               "adaptive-cards",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:59:45.567Z",
+    "last_updated": "2026-10-12T01:19:10.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
