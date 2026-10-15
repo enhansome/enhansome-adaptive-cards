@@ -290,7 +290,7 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:00:43Z",
+            "last_commit": "2026-10-14T11:37:55Z",
             "open_issues": 49,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
@@ -639,7 +639,7 @@
             "id": 125658779,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-07-28T14:33:31Z",
+            "last_commit": "2026-10-14T22:33:35Z",
             "open_issues": 2,
             "owner": "wmfs",
             "repo": "cardscript",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:12:36.816Z",
+    "last_updated": "2026-10-15T00:30:58.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
