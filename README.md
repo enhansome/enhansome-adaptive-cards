@@ -1,12 +1,12 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,346 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,879 | 🐛 105 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ## Contents
 
-* [Adaptive Cards](https://github.com/microsoft/AdaptiveCards) ⭐ 1,970 | 🐛 904 | 🌐 C# | 📅 2026-10-28 - A new way for developers to exchange card content in a common and consistent way.
+* [Adaptive Cards](https://github.com/microsoft/AdaptiveCards) ⭐ 1,970 | 🐛 903 | 🌐 C# | 📅 2026-10-29 - A new way for developers to exchange card content in a common and consistent way.
 
 * [Adaptive Cards Documentation](https://github.com/MicrosoftDocs/AdaptiveCards) ⭐ 90 | 🐛 202 | 🌐 CSS | 📅 2026-10-28 - Documentation for Adaptive Cards.
 
@@ -44,7 +44,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Rendering
 
-* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,277 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-28 - Adaptive Cards Web Part.
+* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,277 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-29 - Adaptive Cards Web Part.
 
 * [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) ⚠️ Archived - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
@@ -88,7 +88,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Templates
 
-* [Adaptive Cards Scenarios](https://github.com/microsoft/AdaptiveCards/tree/main/samples/Templates/Scenarios) ⭐ 1,970 | 🐛 904 | 🌐 C# | 📅 2026-10-28 - Sample scenarios from Adaptive Cards.
+* [Adaptive Cards Scenarios](https://github.com/microsoft/AdaptiveCards/tree/main/samples/Templates/Scenarios) ⭐ 1,970 | 🐛 903 | 🌐 C# | 📅 2026-10-29 - Sample scenarios from Adaptive Cards.
 
 * [Adaptive Cards Template Service](https://github.com/microsoft/adaptivecards-templates) ⭐ 124 | 🐛 21 | 🌐 TypeScript | 📅 2024-10-11 - A collection of Adaptive Card templates for well-known data models
 
@@ -104,7 +104,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 * [Drone](https://github.com/drone/drone-ui) ⭐ 519 | 🐛 39 | 🌐 JavaScript | 📅 2023-12-07 - Front-end for the Drone continuous integration server.
 
-* [PSTeams](https://github.com/EvotecIT/PSTeams) ⭐ 441 | 🐛 8 | 🌐 C# | 📅 2026-10-26 - PowerShell Module that allows sending notifications to Microsoft Teams via WebHook Notifications.
+* [PSTeams](https://github.com/EvotecIT/PSTeams) ⭐ 441 | 🐛 9 | 🌐 C# | 📅 2026-10-29 - PowerShell Module that allows sending notifications to Microsoft Teams via WebHook Notifications.
 
 * [Contoso Dive Finder](https://github.com/matthidinger/ContosoScubaBot) ⭐ 41 | 🐛 2 | 🌐 C# | 📅 2019-01-15 - Sample bot built with rich Adaptive Cards.
 
@@ -136,4 +136,4 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
