@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-30T04:58:02Z",
-            "open_issues": 899,
+            "open_issues": 900,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1972,
+            "stars": 1973,
             "topics": [
               "adaptive",
               "adaptive-cards",
@@ -290,8 +290,8 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T13:59:59Z",
-            "open_issues": 75,
+            "last_commit": "2026-11-05T00:49:38Z",
+            "open_issues": 77,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
             "stars": 2277,
@@ -426,10 +426,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-30T04:58:02Z",
-            "open_issues": 899,
+            "open_issues": 900,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
-            "stars": 1972,
+            "stars": 1973,
             "topics": [
               "adaptive",
               "adaptive-cards",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:18:15.833Z",
+    "last_updated": "2026-11-05T02:24:54.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
