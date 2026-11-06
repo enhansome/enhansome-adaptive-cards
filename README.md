@@ -1,6 +1,6 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,037 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,812 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
@@ -16,7 +16,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Frameworks
 
-* [Bot Framework Web Chat](https://github.com/microsoft/BotFramework-WebChat) ⭐ 1,787 | 🐛 395 | 🌐 HTML | 📅 2026-11-05 - A highly-customizable web-based client for Azure Bot Services.
+* [Bot Framework Web Chat](https://github.com/microsoft/BotFramework-WebChat) ⭐ 1,787 | 🐛 392 | 🌐 HTML | 📅 2026-11-06 - A highly-customizable web-based client for Azure Bot Services.
 
 ### Tools
 
@@ -136,4 +136,4 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
