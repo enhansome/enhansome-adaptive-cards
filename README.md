@@ -1,12 +1,12 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,486 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,972 | 🐛 104 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ## Contents
 
-* [Adaptive Cards](https://github.com/microsoft/AdaptiveCards) ⭐ 1,973 | 🐛 901 | 🌐 C# | 📅 2026-10-30 - A new way for developers to exchange card content in a common and consistent way.
+* [Adaptive Cards](https://github.com/microsoft/AdaptiveCards) ⭐ 1,974 | 🐛 901 | 🌐 C# | 📅 2026-10-30 - A new way for developers to exchange card content in a common and consistent way.
 
 * [Adaptive Cards Documentation](https://github.com/MicrosoftDocs/AdaptiveCards) ⭐ 90 | 🐛 202 | 🌐 CSS | 📅 2026-10-28 - Documentation for Adaptive Cards.
 
@@ -44,7 +44,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Rendering
 
-* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,280 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-13 - Adaptive Cards Web Part.
+* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,281 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-14 - Adaptive Cards Web Part.
 
 * [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) ⚠️ Archived - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
@@ -88,7 +88,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Templates
 
-* [Adaptive Cards Scenarios](https://github.com/microsoft/AdaptiveCards/tree/main/samples/Templates/Scenarios) ⭐ 1,973 | 🐛 901 | 🌐 C# | 📅 2026-10-30 - Sample scenarios from Adaptive Cards.
+* [Adaptive Cards Scenarios](https://github.com/microsoft/AdaptiveCards/tree/main/samples/Templates/Scenarios) ⭐ 1,974 | 🐛 901 | 🌐 C# | 📅 2026-10-30 - Sample scenarios from Adaptive Cards.
 
 * [Adaptive Cards Template Service](https://github.com/microsoft/adaptivecards-templates) ⭐ 124 | 🐛 21 | 🌐 TypeScript | 📅 2024-10-11 - A collection of Adaptive Card templates for well-known data models
 
@@ -136,4 +136,4 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
