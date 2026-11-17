@@ -15,8 +15,8 @@
             "id": 75978731,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T04:58:02Z",
-            "open_issues": 901,
+            "last_commit": "2026-11-16T09:17:08Z",
+            "open_issues": 902,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
             "stars": 1974,
@@ -290,11 +290,11 @@
             "id": 66962179,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T13:49:08Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-16T15:29:20Z",
+            "open_issues": 88,
             "owner": "pnp",
             "repo": "sp-dev-fx-webparts",
-            "stars": 2281,
+            "stars": 2283,
             "topics": [
               "angularjs",
               "hacktoberfest",
@@ -425,8 +425,8 @@
             "id": 75978731,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T04:58:02Z",
-            "open_issues": 901,
+            "last_commit": "2026-11-16T09:17:08Z",
+            "open_issues": 902,
             "owner": "microsoft",
             "repo": "AdaptiveCards",
             "stars": 1974,
@@ -569,7 +569,7 @@
             "open_issues": 39,
             "owner": "drone",
             "repo": "drone-ui",
-            "stars": 518,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:16.552Z"
@@ -665,7 +665,7 @@
             "id": 406118991,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T15:06:44Z",
+            "last_commit": "2026-11-17T00:42:36Z",
             "open_issues": 0,
             "owner": "mikesprague",
             "repo": "teams-incoming-webhook-action",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:01:47.277Z",
+    "last_updated": "2026-11-17T04:28:15.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Adaptive Cards projects.",
