@@ -1,6 +1,6 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,814 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,418 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
@@ -44,7 +44,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Rendering
 
-* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,281 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-23 - Adaptive Cards Web Part.
+* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,282 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-24 - Adaptive Cards Web Part.
 
 * [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) ⚠️ Archived - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
@@ -104,7 +104,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 * [Drone](https://github.com/drone/drone-ui) ⭐ 517 | 🐛 39 | 🌐 JavaScript | 📅 2023-12-07 - Front-end for the Drone continuous integration server.
 
-* [PSTeams](https://github.com/EvotecIT/PSTeams) ⭐ 442 | 🐛 8 | 🌐 C# | 📅 2026-10-30 - PowerShell Module that allows sending notifications to Microsoft Teams via WebHook Notifications.
+* [PSTeams](https://github.com/EvotecIT/PSTeams) ⭐ 443 | 🐛 8 | 🌐 C# | 📅 2026-10-30 - PowerShell Module that allows sending notifications to Microsoft Teams via WebHook Notifications.
 
 * [Contoso Dive Finder](https://github.com/matthidinger/ContosoScubaBot) ⭐ 41 | 🐛 2 | 🌐 C# | 📅 2019-01-15 - Sample bot built with rich Adaptive Cards.
 
@@ -136,4 +136,4 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
