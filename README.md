@@ -1,12 +1,12 @@
 # Awesome Adaptive Cards with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,923 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,528 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ## Contents
 
-* [Adaptive Cards](https://github.com/microsoft/AdaptiveCards) ⭐ 1,974 | 🐛 905 | 🌐 C# | 📅 2026-11-23 - A new way for developers to exchange card content in a common and consistent way.
+* [Adaptive Cards](https://github.com/microsoft/AdaptiveCards) ⭐ 1,974 | 🐛 906 | 🌐 C# | 📅 2026-11-26 - A new way for developers to exchange card content in a common and consistent way.
 
 * [Adaptive Cards Documentation](https://github.com/MicrosoftDocs/AdaptiveCards) ⭐ 90 | 🐛 202 | 🌐 CSS | 📅 2026-10-28 - Documentation for Adaptive Cards.
 
@@ -16,7 +16,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Frameworks
 
-* [Bot Framework Web Chat](https://github.com/microsoft/BotFramework-WebChat) ⭐ 1,785 | 🐛 393 | 🌐 HTML | 📅 2026-11-26 - A highly-customizable web-based client for Azure Bot Services.
+* [Bot Framework Web Chat](https://github.com/microsoft/BotFramework-WebChat) ⭐ 1,785 | 🐛 392 | 🌐 HTML | 📅 2026-11-27 - A highly-customizable web-based client for Azure Bot Services.
 
 ### Tools
 
@@ -44,7 +44,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Rendering
 
-* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,284 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-25 - Adaptive Cards Web Part.
+* [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) ⭐ 2,283 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-26 - Adaptive Cards Web Part.
 
 * [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) ⚠️ Archived - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
@@ -88,7 +88,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Templates
 
-* [Adaptive Cards Scenarios](https://github.com/microsoft/AdaptiveCards/tree/main/samples/Templates/Scenarios) ⭐ 1,974 | 🐛 905 | 🌐 C# | 📅 2026-11-23 - Sample scenarios from Adaptive Cards.
+* [Adaptive Cards Scenarios](https://github.com/microsoft/AdaptiveCards/tree/main/samples/Templates/Scenarios) ⭐ 1,974 | 🐛 906 | 🌐 C# | 📅 2026-11-26 - Sample scenarios from Adaptive Cards.
 
 * [Adaptive Cards Template Service](https://github.com/microsoft/adaptivecards-templates) ⭐ 125 | 🐛 21 | 🌐 TypeScript | 📅 2024-10-11 - A collection of Adaptive Card templates for well-known data models
 
@@ -102,7 +102,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Projects using Adaptive Cards
 
-* [Drone](https://github.com/drone/drone-ui) ⭐ 517 | 🐛 39 | 🌐 JavaScript | 📅 2023-12-07 - Front-end for the Drone continuous integration server.
+* [Drone](https://github.com/drone/drone-ui) ⭐ 518 | 🐛 39 | 🌐 JavaScript | 📅 2023-12-07 - Front-end for the Drone continuous integration server.
 
 * [PSTeams](https://github.com/EvotecIT/PSTeams) ⭐ 443 | 🐛 8 | 🌐 C# | 📅 2026-10-30 - PowerShell Module that allows sending notifications to Microsoft Teams via WebHook Notifications.
 
@@ -136,4 +136,4 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
